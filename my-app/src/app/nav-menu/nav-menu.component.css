@@ -1,0 +1,14 @@
+.menu{
+  background-color: darksalmon;
+  width: 15%;
+  height: 50px;
+  text-align: center;
+  padding-top: 22px;
+}
+label {
+    font-family: fantasy;
+    font-size: 20px;
+    height: 50px;
+    text-align: center;
+    padding-top: 22px;
+}
